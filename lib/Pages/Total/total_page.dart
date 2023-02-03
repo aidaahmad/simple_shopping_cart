@@ -2,7 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
-import 'my_controller.dart';
+import 'Controllers/my_controller.dart';
 
 class TotalPage extends StatelessWidget {
   TotalPage({Key? key}) : super(key: key);
